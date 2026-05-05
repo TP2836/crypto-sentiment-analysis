@@ -52,7 +52,7 @@ market cap.
 
 ## Status
 
-Spring 2026 capstone — *Dealing with Data*, NYU MSIS.
+Spring 2026 — *Dealing with Data*, NYU MSIS.
 
 ## Author
 
